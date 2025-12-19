@@ -1,0 +1,57 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.section {
+    min-height: calc(100vh - 200px);
+    padding: 3rem 0;
+}
+
+.section__title {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 3rem;
+    color: #2d3436;
+    position: relative;
+    padding-bottom: 1rem;
+}
+
+.section__title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 4px;
+    background: linear-gradient(135deg, #ff7a18, #ff9f43);
+    border-radius: 2px;
+}
+
+.section__container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+#home .section__container {
+    max-width: none;
+    padding: 0;
+}
+
+#home.section {
+    padding: 0;
+    min-height: auto;
+}
+
+/* Убедитесь, что секции features, steps, popular НЕ внутри .section__container */
+/* Или добавьте это правило: */
+.section__container .features,
+.section__container .steps__grid,
+.section__container .popular__grid {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
