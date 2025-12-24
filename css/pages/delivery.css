@@ -1,0 +1,39 @@
+.delivery {
+    background: white;
+    padding: 2rem;
+    border-radius: 15px;
+}
+
+.delivery__info {
+    margin-bottom: 2rem;
+}
+
+.delivery__section {
+    margin-bottom: 2rem;
+}
+
+.delivery__subtitle {
+    font-size: 1.5rem;
+    color: #ff7a18;
+    ;
+    margin-bottom: 1rem;
+}
+
+.delivery__zones {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.delivery__zone {
+    background: #f8f9fa;
+    padding: 1rem;
+    border-radius: 10px;
+    border: 2px solid #e1e8ed;
+}
+
+.delivery__zone-name {
+    font-weight: bold;
+    color: #ff7a18;
+}

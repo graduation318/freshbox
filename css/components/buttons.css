@@ -1,0 +1,66 @@
+.hero__button {
+    background: white;
+    color: #ff7a18;
+    ;
+    border: none;
+    padding: 1rem 2.5rem;
+    font-size: 1.1rem;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: transform 0.3s;
+    font-weight: bold;
+}
+
+.meal-card__button {
+    margin-top: auto;
+    width: 100%;
+    background: linear-gradient(135deg, #ff7a18 0%, #ff9f43 100%);
+    color: white;
+    border: none;
+    padding: 0.75rem;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+    transition: opacity 0.3s;
+}
+
+.cart__checkout {
+    background: linear-gradient(135deg, #ff7a18 0%, #ff9f43 100%);
+    color: white;
+    border: none;
+    padding: 1rem 3rem;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-weight: bold;
+    float: right;
+}
+
+.contacts__submit {
+    background: linear-gradient(135deg, #ff7a18 0%, #ff9f43 100%);
+    color: white;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.modal__button {
+    width: 100%;
+    background: linear-gradient(135deg, #ff7a18 0%, #ff9f43 100%);
+    color: white;
+    border: none;
+    padding: 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 1.1rem;
+    font-weight: bold;
+    transition: opacity 0.3s;
+}
+
+.modal__button:hover {
+    opacity: 0.9;
+}

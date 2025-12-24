@@ -1,0 +1,175 @@
+@media (max-width: 768px) {
+    .header__nav {
+        gap: 1rem;
+        font-size: 0.9rem;
+    }
+
+    .hero__title {
+        font-size: 2rem;
+    }
+
+    .section__title {
+        font-size: 1.8rem;
+    }
+
+    .catalog,
+    .recipes {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 768px) {
+    .hero {
+        height: 500px;
+    }
+
+    .hero__title {
+        font-size: 2.5rem;
+    }
+
+    .hero__subtitle {
+        font-size: 1.2rem;
+    }
+
+    .hero__button {
+        padding: 0.9rem 2.5rem;
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero {
+        height: 450px;
+    }
+
+    .hero__title {
+        font-size: 2rem;
+    }
+
+    .hero__subtitle {
+        font-size: 1rem;
+        margin-bottom: 2rem;
+    }
+
+    .hero__button {
+        padding: 0.8rem 2rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .header__top {
+        display: flex;
+        overflow: visible;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+    }
+
+    .header__container {
+        gap: 0;
+    }
+
+    .header__burger {
+        display: flex;
+    }
+
+    .header__cart-desktop {
+        display: none;
+    }
+
+    .header__cart-mobile {
+        display: block;
+        position: relative;
+    }
+
+    nav {
+        width: 100%;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.3s ease;
+    }
+
+    nav.active {
+        max-height: 400px;
+        padding: 1rem 0;
+    }
+
+    .header__nav {
+        flex-direction: column;
+        gap: 0;
+        align-items: stretch;
+    }
+
+    .header__nav li {
+        width: 100%;
+        text-align: center;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    .header__nav li:last-child {
+        border-bottom: none;
+    }
+
+    .header__link {
+        display: block;
+        padding: 1rem;
+    }
+
+    .header__link:hover {
+        background: rgba(255, 255, 255, 0.1);
+        transform: none;
+    }
+}
+
+@media (max-width: 768px) {
+    .footer {
+        padding: 2rem 0 1rem;
+    }
+
+    .footer__content {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+    }
+
+    .footer__bottom {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .footer__links {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 768px) {
+
+    .features,
+    .steps__grid,
+    .popular__grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+    .features__icon {
+        font-size: 3rem;
+    }
+
+    .meal-card__image {
+        height: 180px;
+        font-size: 4rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .cta {
+        min-height: 350px;
+    }
+
+    .cta__title {
+        font-size: 2rem;
+    }
+
+    .cta__text {
+        font-size: 1.1rem;
+    }
+}
