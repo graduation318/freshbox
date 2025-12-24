@@ -49,10 +49,7 @@ const meals = [
         weight: 1.5,
         recipe: {
             time: '30 минут',
-<<<<<<< HEAD
             videoUrl: 'https://youtu.be/jVNX5aIo-IA?si=UFeExwGmPiUjPMVc',
-=======
->>>>>>> origin/main
             ingredients: ['Спагетти — 200г', 'Бекон — 150г', 'Яйца — 3шт', 'Пармезан — 100г', 'Сливки — 200мл', 'Чеснок — 2 зубчика'],
             steps: [
                 'Отварите спагетти в подсоленной воде до состояния аль денте',
@@ -76,10 +73,7 @@ const meals = [
         weight: 1.8,
         recipe: {
             time: '35 минут',
-<<<<<<< HEAD
             videoUrl: 'https://youtu.be/SPHYkhR5X7s?si=Op8Ghc9O8bAzXO8P',
-=======
->>>>>>> origin/main
             ingredients: ['Рисовая лапша — 200г', 'Креветки — 200г', 'Арахис — 50г', 'Тофу — 100г', 'Соус Пад Тай — 100мл', 'Яйца — 2шт'],
             steps: [
                 'Замочите рисовую лапшу в горячей воде на 10 минут',
@@ -103,10 +97,7 @@ const meals = [
         weight: 2.0,
         recipe: {
             time: '40 минут',
-<<<<<<< HEAD
-            videoUrl: 'https://www.youtube.com/watch?v=WD-TonV-du8',
-=======
->>>>>>> origin/main
+            videoUrl: 'https://youtu.be/zQarmzjpmyE?si=MM6u55aMGNw5r4an',
             ingredients: ['Баклажан — 1шт', 'Кабачок — 1шт', 'Перец болгарский — 2шт', 'Томаты — 3шт', 'Лук — 1шт', 'Чеснок — 3 зубчика'],
             steps: [
                 'Нарежьте все овощи кубиками одинакового размера',
@@ -130,10 +121,7 @@ const meals = [
         weight: 1.6,
         recipe: {
             time: '25 минут',
-<<<<<<< HEAD
             videoUrl: 'https://youtu.be/WPnT10cpbI8?si=_7MBPSEgZnrhTWJR',
-=======
->>>>>>> origin/main
             ingredients: ['Куриное филе — 300г', 'Тортильи безглютеновые — 6шт', 'Авокадо — 2шт', 'Помидоры — 2шт', 'Сыр чеддер — 100г'],
             steps: [
                 'Нарежьте курицу полосками и обжарьте со специями',
@@ -157,10 +145,7 @@ const meals = [
         weight: 1.4,
         recipe: {
             time: '35 минут',
-<<<<<<< HEAD
             videoUrl: 'https://youtu.be/nESbx6M5k3Y?si=LumWbtMe1K4XoNPl',
-=======
->>>>>>> origin/main
             ingredients: ['Стейк лосося — 250г', 'Киноа — 150г', 'Брокколи — 200г', 'Морковь — 2шт', 'Соус терияки — 50мл', 'Кунжут — 20г'],
             steps: [
                 'Отварите киноа в подсоленной воде 15 минут',
@@ -184,10 +169,7 @@ const meals = [
         weight: 1.7,
         recipe: {
             time: '30 минут',
-<<<<<<< HEAD
             videoUrl: 'https://youtu.be/WgI1GPSBdis?si=1WHOhOdoNFarMQ4q',
-=======
->>>>>>> origin/main
             ingredients: ['Тортильи — 3шт', 'Черная фасоль — 200г', 'Рис — 150г', 'Перец болгарский — 2шт', 'Кукуруза — 100г', 'Гуакамоле — 100г'],
             steps: [
                 'Отварите рис до готовности',
@@ -211,10 +193,7 @@ const meals = [
         weight: 2.2,
         recipe: {
             time: '45 минут',
-<<<<<<< HEAD
             videoUrl: 'https://youtu.be/Df6ql5qAZxk?si=KCEqhpgemHHz0iI1',
-=======
->>>>>>> origin/main
             ingredients: [
                 'Листы лазаньи',
                 'Говяжий фарш — 400г',
@@ -243,10 +222,7 @@ const meals = [
         weight: 1.8,
         recipe: {
             time: '30 минут',
-<<<<<<< HEAD
             videoUrl: 'https://youtu.be/7yXgrA6fQT0?si=C05-LeB5WMfkHoTj',
-=======
->>>>>>> origin/main
             ingredients: [
                 'Куриное филе — 350г',
                 'Соус терияки — 80мл',
@@ -274,10 +250,7 @@ const meals = [
         weight: 1.3,
         recipe: {
             time: '20 минут',
-<<<<<<< HEAD
             videoUrl: 'https://youtu.be/KWEfo5ZrPIk?si=i4_SdoO0twWqpSY6',
-=======
->>>>>>> origin/main
             ingredients: [
                 'Куриное филе — 250г',
                 'Авокадо — 1шт',
@@ -305,10 +278,7 @@ const meals = [
         weight: 1.6,
         recipe: {
             time: '35 минут',
-<<<<<<< HEAD
             videoUrl: 'https://youtu.be/B0ps9wCwkJo?si=84K8pLRKmpodH57V',
-=======
->>>>>>> origin/main
             ingredients: [
                 'Рис арборио — 200г',
                 'Шампиньоны — 200г',
@@ -338,10 +308,7 @@ const meals = [
         weight: 1.5,
         recipe: {
             time: '30 минут',
-<<<<<<< HEAD
             videoUrl: 'https://youtu.be/3lYmZijb6w8?si=DxPbUk7kBJgwrYz9',
-=======
->>>>>>> origin/main
             ingredients: [
                 'Нут — 250г',
                 'Чеснок — 2 зубчика',
@@ -370,10 +337,7 @@ const meals = [
         weight: 1.7,
         recipe: {
             time: '25 минут',
-<<<<<<< HEAD
             videoUrl: 'https://youtu.be/cJzk23P3T8I?si=hNwynfaQC4_G6oJp',
-=======
->>>>>>> origin/main
             ingredients: [
                 'Филе индейки — 300г',
                 'Розмарин — 1 веточка',
@@ -527,10 +491,6 @@ function renderCatalog() {
 function renderRecipes() {
     const container = document.getElementById('recipesContainer');
     if (!container) return;
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/main
     container.innerHTML = meals.map(meal => `
         <div class="recipe-card">
             <h3 class="recipe-card__title">${meal.icon} ${meal.name}</h3>
@@ -547,14 +507,11 @@ function renderRecipes() {
                     ${meal.recipe.steps.map(step => `<li>${step}</li>`).join('')}
                 </ol>
             </div>
-<<<<<<< HEAD
             ${meal.recipe.videoUrl ? `
                 <a href="${meal.recipe.videoUrl}" target="_blank" rel="noopener noreferrer" class="recipe-card__video-button">
                     🎬 Видеорецепт
                 </a>
             ` : ''}
-=======
->>>>>>> origin/main
         </div>
     `).join('');
 }
